@@ -1,2 +1,2 @@
-FOR; 1;
-FORGET; 1;
+FOR; 3,2,1;
+FORGET; 3,2,1;

@@ -1,10 +1,13 @@
 de_search\prefixes.txt
 de_search\ids.txt
+de_search\0xu0057.txt
 de_search\0xu0054.txt
+de_search\0xu0053.txt
 de_search\0xu0052.txt
 de_search\0xu004b.txt
 de_search\0xu0049.txt
 de_search\0xu0048.txt
+de_search\0xu0047.txt
 de_search\0xu0046.txt
 de_search\0xu0044.txt
 de_search\0xu0041.txt
@@ -23,6 +26,8 @@ i\blocks\search\loading.gif
 i\blocks\interface-icons\interface-icons-sprite.png
 i\blocks\interface-icons\interface-icons-sprite-8.png
 i\null.gif
+getting_started.htm
+welcome.htm
 recdesk.htm
 index.htm
 drex_file_list
