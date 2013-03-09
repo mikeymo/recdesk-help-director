@@ -1,5 +1,5 @@
-TEXT; 3,2,1;
-THIS; 3,2,1;
+TEXT; 3,1;
+THIS; 3,1;
 TO; 3,2,1;
-TODO; 3,2,1;
-TOPIC; 3,2,1;
+TODO; 3,1;
+TOPIC; 3,1;
