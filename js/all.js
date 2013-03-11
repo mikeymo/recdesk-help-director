@@ -1280,8 +1280,8 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
 	// menu
-	DREX_NODE_NAMES: ["RecDesk","Welcome","Getting Started"],
-	DREX_NODE_LINKS: ["recdesk.htm","welcome.htm","getting_started.htm"],
+	DREX_NODE_NAMES: ["RecDesk Director","Welcome","Getting Started"],
+	DREX_NODE_LINKS: ["recdesk_director.htm","welcome.htm","getting_started.htm"],
 	DREX_NODE_CHILD_START: [1,3,3],
 	DREX_NODE_CHILD_END: [3,3,3],
 	DREX_MENU_TYPE: 1,
