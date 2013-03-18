@@ -1,3 +1,14 @@
 1; RecDesk ... Advanced License is required!; recdesk_director.htm;
 2; Wel... Advanced License is required!; welcome.htm;
 3; Getting... Advanced License is required!; getting_started.htm;
+4; Prog... Advanced License is required!; programs.htm;
+5; Progra... Advanced License is required!; program_list.htm;
+6; Creating and Up... Advanced License is required!; creating_and_updating_programs.htm;
+7; Membe... Advanced License is required!; memberships.htm;
+8; Facil... Advanced License is required!; facilities.htm;
+9; Mem... Advanced License is required!; members.htm;
+10; Lea... Advanced License is required!; leagues.htm;
+11; Mo... Advanced License is required!; money.htm;
+12; Rep... Advanced License is required!; reports.htm;
+13; Ad... Advanced License is required!; admin.htm;
+14; Managing C... Advanced License is required!; managing_custom_lists.htm;

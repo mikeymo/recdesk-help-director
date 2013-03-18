@@ -1,0 +1,5 @@
+BALLFIELD; 14;
+BE; 14,5,6;
+BEGIN; 6;
+BOTH; 14;
+BY; 14,6,5;

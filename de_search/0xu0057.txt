@@ -1,1 +1,7 @@
+WAY; 14;
 WELCOME; 2;
+WHAT; 14;
+WHEN; 14;
+WILL; 5;
+WITH; 14,6;
+WOULD; 14,5;

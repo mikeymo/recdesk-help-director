@@ -1,1 +1,7 @@
-INSERT; 3;
+ID; 6;
+IF; 5;
+IN; 14,6;
+INSERT; 13,12,11,10,9,8,7,4,3;
+INSTRUCTOR; 6;
+IS; 5,14;
+ITS; 5;
