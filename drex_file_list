@@ -1,6 +1,7 @@
 de_search\prefixes.txt
 de_search\ids.txt
 de_search\0xu0059.txt
+de_search\0xu0058.txt
 de_search\0xu0057.txt
 de_search\0xu0056.txt
 de_search\0xu0055.txt
@@ -46,8 +47,8 @@ leagues.htm
 members.htm
 facilities.htm
 memberships.htm
-creating_and_updating_programs.htm
 program_list.htm
+program_fields.htm
 programs.htm
 getting_started.htm
 drex_welcome_custom.png

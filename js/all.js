@@ -1280,8 +1280,8 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
 	// menu
-	DREX_NODE_NAMES: ["RecDesk Director","Welcome","Getting Started","Programs","Memberships","Facilities","Members","Leagues","Money","Reports","Admin","Program List","Creating and Updating Programs","Managing Custom Lists"],
-	DREX_NODE_LINKS: ["recdesk_director.htm","welcome.htm","getting_started.htm","programs.htm","memberships.htm","facilities.htm","members.htm","leagues.htm","money.htm","reports.htm","admin.htm","program_list.htm","creating_and_updating_programs.htm","managing_custom_lists.htm"],
+	DREX_NODE_NAMES: ["RecDesk Director","Welcome","Getting Started","Programs","Memberships","Facilities","Members","Leagues","Money","Reports","Admin","Program Fields","Program List","Managing Custom Lists"],
+	DREX_NODE_LINKS: ["recdesk_director.htm","welcome.htm","getting_started.htm","programs.htm","memberships.htm","facilities.htm","members.htm","leagues.htm","money.htm","reports.htm","admin.htm","program_fields.htm","program_list.htm","managing_custom_lists.htm"],
 	DREX_NODE_CHILD_START: [1,11,11,11,13,13,13,13,13,13,13,14,14,14],
 	DREX_NODE_CHILD_END: [11,11,11,13,13,13,13,13,13,13,14,14,14,14],
 	DREX_MENU_TYPE: 1,
