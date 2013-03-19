@@ -11,9 +11,10 @@
 11; Enrollin... Advanced License is required!; enrolling_members.htm;
 12; Membership Enr... Advanced License is required!; membership_enrollment_fields.htm;
 13; Facil... Advanced License is required!; facilities.htm;
-14; Mem... Advanced License is required!; members.htm;
-15; Lea... Advanced License is required!; leagues.htm;
-16; Mo... Advanced License is required!; money.htm;
-17; Rep... Advanced License is required!; reports.htm;
-18; Ad... Advanced License is required!; admin.htm;
-19; Managing C... Advanced License is required!; managing_custom_lists.htm;
+14; Facilit... Advanced License is required!; facility_fields.htm;
+15; Mem... Advanced License is required!; members.htm;
+16; Lea... Advanced License is required!; leagues.htm;
+17; Mo... Advanced License is required!; money.htm;
+18; Rep... Advanced License is required!; reports.htm;
+19; Ad... Advanced License is required!; admin.htm;
+20; Managing C... Advanced License is required!; managing_custom_lists.htm;

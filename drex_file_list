@@ -1,5 +1,6 @@
 de_search\prefixes.txt
 de_search\ids.txt
+de_search\0xu005a.txt
 de_search\0xu0059.txt
 de_search\0xu0058.txt
 de_search\0xu0057.txt
@@ -46,6 +47,7 @@ reports.htm
 money.htm
 leagues.htm
 members.htm
+facility_fields.htm
 facilities.htm
 membership_enrollment_fields.htm
 enrolling_members.htm
