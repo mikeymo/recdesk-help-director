@@ -51,8 +51,8 @@ tr.topLinkRow a, t.topLinkRow a:visited
 /*a:hover,*/
 .b-breadCrumbs__link:hover,
 .b-controlButtons__link:hover {
-	color: #deff00;
-	border-bottom-color: #8e9f1f;
+	color: #a8b649;
+	border-bottom-color: #737a44;
 }
 
 .b-article__generatorCopyrightLink:link,

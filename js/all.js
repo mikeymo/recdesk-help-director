@@ -1280,10 +1280,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
 	// menu
-	DREX_NODE_NAMES: ["RecDesk Director","Welcome","Frequently Asked Questions","Getting Started","Programs","Memberships","Facilities","Members","Leagues","Money","Reports","Admin","Program and Registration Related FAQs","Program Fields","Program List","Membership Fields","Enrolling Members","Facility Fields","Managing Custom Lists","Membership Enrollment Fields"],
-	DREX_NODE_LINKS: ["recdesk_director.htm","welcome.htm","frequently_asked_questions.htm","getting_started.htm","programs.htm","memberships.htm","facilities.htm","members.htm","leagues.htm","money.htm","reports.htm","admin.htm","program_and_registration_related_faqs.htm","program_fields.htm","program_list.htm","membership_fields.htm","enrolling_members.htm","facility_fields.htm","managing_custom_lists.htm","membership_enrollment_fields.htm"],
-	DREX_NODE_CHILD_START: [1,12,12,13,13,15,17,18,18,18,18,18,19,19,19,19,19,20,20,20],
-	DREX_NODE_CHILD_END: [12,12,13,13,15,17,18,18,18,18,18,19,19,19,19,19,20,20,20,20],
+	DREX_NODE_NAMES: ["RecDesk Director","Welcome","Frequently Asked Questions","Getting Started","Programs","Memberships","Facilities","Members","Leagues","Money","Reports","Admin","Program and Registration Related FAQs","Membership Related FAQs","Facility Related FAQs","Member Related FAQs","League Related FAQs","Money Related FAQs","Administrative Related FAQs","Program Fields","Program List","Membership Fields","Enrolling Members","Facility Fields","Managing Custom Lists","Membership Enrollment Fields"],
+	DREX_NODE_LINKS: ["recdesk_director.htm","welcome.htm","frequently_asked_questions.htm","getting_started.htm","programs.htm","memberships.htm","facilities.htm","members.htm","leagues.htm","money.htm","reports.htm","admin.htm","program_and_registration_related_faqs.htm","membership_related_faqs.htm","facility_related_faqs.htm","member_related_faqs.htm","league_related_faqs.htm","money_related_faqs.htm","administrative_related_faqs.htm","program_fields.htm","program_list.htm","membership_fields.htm","enrolling_members.htm","facility_fields.htm","managing_custom_lists.htm","membership_enrollment_fields.htm"],
+	DREX_NODE_CHILD_START: [1,12,12,19,19,21,23,24,24,24,24,24,25,25,25,25,25,25,25,25,25,25,25,26,26,26],
+	DREX_NODE_CHILD_END: [12,12,19,19,21,23,24,24,24,24,24,25,25,25,25,25,25,25,25,25,25,25,26,26,26,26],
 	DREX_MENU_TYPE: 1,
 	DREX_HAS_ROOT_NODE: 1};
 /*js/drexplain/drexplain.data.index.js*/
