@@ -1280,10 +1280,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
 	// menu
-	DREX_NODE_NAMES: ["RecDesk Director","Welcome","Frequently Asked Questions","Getting Started","Programs","Memberships","Facilities","Members","Leagues","Money","Reports","Admin","Program and Registration Related FAQs","Membership Related FAQs","Facility Related FAQs","Member Related FAQs","League Related FAQs","Money Related FAQs","Administrative Related FAQs","Program Fields","Program List","Membership Fields","Enrolling Members","Facility Fields","Managing Custom Lists","Membership Enrollment Fields"],
-	DREX_NODE_LINKS: ["recdesk_director.htm","welcome.htm","frequently_asked_questions.htm","getting_started.htm","programs.htm","memberships.htm","facilities.htm","members.htm","leagues.htm","money.htm","reports.htm","admin.htm","program_and_registration_related_faqs.htm","membership_related_faqs.htm","facility_related_faqs.htm","member_related_faqs.htm","league_related_faqs.htm","money_related_faqs.htm","administrative_related_faqs.htm","program_fields.htm","program_list.htm","membership_fields.htm","enrolling_members.htm","facility_fields.htm","managing_custom_lists.htm","membership_enrollment_fields.htm"],
-	DREX_NODE_CHILD_START: [1,12,12,19,19,21,23,24,24,24,24,24,25,25,25,25,25,25,25,25,25,25,25,26,26,26],
-	DREX_NODE_CHILD_END: [12,12,19,19,21,23,24,24,24,24,24,25,25,25,25,25,25,25,25,25,25,25,26,26,26,26],
+	DREX_NODE_NAMES: ["RecDesk Director","Welcome","Frequently Asked Questions","Getting Started","Programs and Registrations","Memberships","Facilities and Reservations","Members","Leagues","Money","Reports","Admin","Program and Registration Related FAQs","Membership Related FAQs","Facility Related FAQs","Member Related FAQs","League Related FAQs","Money Related FAQs","Administrative Related FAQs","The Program List","Creating and Modifying Programs","Program Schedules","Working with Rosters","Wait Lists","Taking Attendance","Appendix","The Memberships List","Creating and Modifying Memberships","Enrolling Members","Appendix","Facility Fields","Member Fields","Program Related","Facility Related","Money Related","Payments and Registrations Related","General Ledger Related","Member Related","Managing Custom Lists","Program Fields","Program List Fields","Membership Definition Fields","Membership Enrollment Fields"],
+	DREX_NODE_LINKS: ["recdesk_director.htm","welcome.htm","frequently_asked_questions.htm","getting_started.htm","programs_and_registrations.htm","memberships.htm","facilities_and_reservations.htm","members.htm","leagues.htm","money.htm","reports.htm","admin.htm","program_and_registration_related_faqs.htm","membership_related_faqs.htm","facility_related_faqs.htm","member_related_faqs.htm","league_related_faqs.htm","money_related_faqs.htm","administrative_related_faqs.htm","the_program_list.htm","creating_and_modifying_programs.htm","program_schedules.htm","working_with_rosters.htm","wait_lists.htm","taking_attendance.htm","appendix_1.htm","the_memberships_list.htm","creating_and_modifying_memberships.htm","enrolling_members.htm","appendix_2.htm","facility_fields.htm","member_fields.htm","program_related.htm","facility_related.htm","money_related.htm","payments_and_registrations_related.htm","general_ledger_related.htm","member_related.htm","managing_custom_lists.htm","program_fields.htm","program_list_fields.htm","membership_definition_fields.htm","membership_enrollment_fields.htm"],
+	DREX_NODE_CHILD_START: [1,12,12,19,19,26,30,31,32,32,32,38,39,39,39,39,39,39,39,39,39,39,39,39,39,39,41,41,41,41,43,43,43,43,43,43,43,43,43,43,43,43,43],
+	DREX_NODE_CHILD_END: [12,12,19,19,26,30,31,32,32,32,38,39,39,39,39,39,39,39,39,39,39,39,39,39,39,41,41,41,41,43,43,43,43,43,43,43,43,43,43,43,43,43,43],
 	DREX_MENU_TYPE: 1,
 	DREX_HAS_ROOT_NODE: 1};
 /*js/drexplain/drexplain.data.index.js*/
@@ -1304,6 +1304,6 @@ DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_resize' );
 DR_EXPLAIN.data_resize = {
 
 	DREXPLAIN_FIT_HEIGHT_TO_WINDOW: 1,
-	DREX_INITIAL_MENU_WIDTH: "300px"
+	DREX_INITIAL_MENU_WIDTH: "240px"
 
 };
