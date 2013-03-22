@@ -1043,12 +1043,6 @@ background-color:rgb(191,191,191);
 	height: 1.6em;
 }
  */
-.b-tree__i_expander_doOpen,
-.b-tree__i_expander_doClose,
-.b-tree__i_hLine_mr
-{
-	display: none;
-}
 /*@import url( 'tree.imgs.css');*/
 .b-tree__i_expander_doOpen,
 .b-tree__i_expander_doClose,

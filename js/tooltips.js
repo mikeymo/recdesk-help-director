@@ -1,4 +1,4 @@
-bTooltipShouldBeMade = false;
+bTooltipShouldBeMade = true;
 var constShowTimeout = 300;
 var constHideTimeout = 750;
 var ShowNum = 0;
