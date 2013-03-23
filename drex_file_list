@@ -26,6 +26,8 @@ de_search\0xu0044.txt
 de_search\0xu0043.txt
 de_search\0xu0042.txt
 de_search\0xu0041.txt
+de_search\0xu0033.txt
+de_search\0xu0032.txt
 de_search\0xu0031.txt
 js\drexplain.data.index.js
 de_style.css
@@ -51,6 +53,13 @@ money_related.htm
 facility_related.htm
 program_related.htm
 reports.htm
+drex_partial_payments_custom_3.png
+drex_partial_payments_custom_2.png
+drex_partial_payments_custom.png
+partial_payments.htm
+payment_reconciliation.htm
+receive_payment.htm
+payment_search.htm
 money.htm
 leagues.htm
 member_fields.htm
@@ -70,8 +79,12 @@ facilities_and_reservations.htm
 membership_enrollment_fields.htm
 membership_definition_fields.htm
 appendix_2.htm
+drex_working_with_membership_members_custom_2.png
+drex_working_with_membership_members_custom.png
+working_with_membership_members.htm
 enrolling_members.htm
-creating_and_modifying_memberships.htm
+creating_and_modifying_membership_definitions.htm
+drex_the_memberships_list_custom.png
 the_memberships_list.htm
 memberships.htm
 program_fields.htm
