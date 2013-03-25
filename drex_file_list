@@ -45,6 +45,7 @@ i\blocks\interface-icons\interface-icons-sprite.png
 i\blocks\interface-icons\interface-icons-sprite-8.png
 i\null.gif
 managing_custom_lists.htm
+adding_recdesk_users.htm
 admin.htm
 member_related.htm
 general_ledger_related.htm
@@ -57,10 +58,15 @@ drex_partial_payments_custom_3.png
 drex_partial_payments_custom_2.png
 drex_partial_payments_custom.png
 partial_payments.htm
+drex_payment_reconciliation_custom.png
 payment_reconciliation.htm
+drex_receive_payment_custom.png
 receive_payment.htm
 payment_search.htm
 money.htm
+assigning_players_to_teams.htm
+creating_teams.htm
+creating_leagues.htm
 leagues.htm
 member_fields.htm
 members.htm
