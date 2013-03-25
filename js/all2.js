@@ -1350,7 +1350,7 @@ DR_EXPLAIN.tabController = (function(){
 	var _class = {
 		DREX_SHOW_MENU: 1,
 		DREX_SHOW_SEARCH: 1,
-		DREX_SHOW_INDEX: 1,
+		DREX_SHOW_INDEX: 0,
 		
 		tabArr: [],
 		urlEncoder: null,
