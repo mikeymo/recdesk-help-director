@@ -56,6 +56,12 @@ font-weight:normal;
 img.de_780D01ADE8
 {
 margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+span.de_160AD1C664
+{
+	font-size: 11pt;
+	color:#3f3f3f;
+	font-style:italic;
+}
 span.de_2B94C39861
 {
 	color:#0000ff;
@@ -92,8 +98,18 @@ span.de_AD3B714EC2
 	font-size: 14pt;
 	color:#000000;
 }
+span.de_B9D1504DC3
+{
+	font-size: 11pt;
+	color:#3f3f3f;
+}
 span.de_DBF328B893
 {
 	color:#000000;
 	font-style:italic;
+}
+span.de_E63A2C15A9
+{
+	font-size: 11pt;
+	color:#000000;
 }

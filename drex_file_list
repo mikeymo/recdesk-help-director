@@ -26,6 +26,7 @@ de_search\0xu0044.txt
 de_search\0xu0043.txt
 de_search\0xu0042.txt
 de_search\0xu0041.txt
+de_search\0xu0039.txt
 de_search\0xu0038.txt
 de_search\0xu0033.txt
 de_search\0xu0032.txt
@@ -66,6 +67,14 @@ receive_payment.htm
 payment_search.htm
 money.htm
 member_fields.htm
+appendix_4.htm
+drex_assigning_member_ids_custom.png
+assigning_member_ids.htm
+drex_organizing_as_family_groups_custom.png
+organizing_as_family_groups.htm
+creating_and_modifying_members.htm
+drex_the_member_list_custom.png
+the_member_list.htm
 members.htm
 facility_reservation_fields.htm
 facility_fields.htm
