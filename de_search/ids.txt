@@ -61,3 +61,7 @@
 61; Admin; admin.htm;
 62; Adding RecDesk Users; adding_recdesk_users.htm;
 63; Managing Custom Lists; managing_custom_lists.htm;
+64; RecDesk Community Portal; recdesk_community_portal.htm;
+65; Logging In; logging_in.htm;
+66; Adding and Updating Content; adding_and_updating_content.htm;
+67; Uploading Documents; uploading_documents.htm;
