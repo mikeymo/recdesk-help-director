@@ -71,6 +71,10 @@ span.de_403BE9223A
 {
 	font-size: 10pt;
 }
+span.de_4539019894
+{
+	color:#da4b25;
+}
 span.de_476D3D315E
 {
 	text-decoration:underline;
@@ -83,6 +87,11 @@ span.de_52A7C19AFB
 {
 	font-size: 10pt;
 	color:#000000;
+}
+span.de_7CE7269266
+{
+	font-size: 10pt;
+	color:#da4b25;
 }
 span.de_82121658CD
 {
@@ -108,8 +117,19 @@ span.de_DBF328B893
 	color:#000000;
 	font-style:italic;
 }
+span.de_E5AAA725D2
+{
+	font-size: 10pt;
+	color:#3f3f3f;
+}
 span.de_E63A2C15A9
 {
 	font-size: 11pt;
 	color:#000000;
+}
+span.de_E784023B8A
+{
+	font-size: 10pt;
+	color:#da4b25;
+	text-decoration:underline;
 }
