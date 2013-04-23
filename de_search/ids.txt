@@ -66,3 +66,4 @@
 66; Logging In; logging_in.htm;
 67; Adding and Updating Content; adding_and_updating_content.htm;
 68; Uploading Documents; uploading_documents.htm;
+69; How Waivers Work; how_waivers_work.htm;
