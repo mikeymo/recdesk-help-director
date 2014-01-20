@@ -45,7 +45,7 @@
 45; Facility Fields; facility_fields.htm;
 46; Facility Reservation Fields; facility_reservation_fields.htm;
 47; Members; members.htm;
-48; The Member List; the_member_list.htm;
+48; The Member List (Advanced Search); the_member_list__advanced_search_.htm;
 49; Creating and Modifying Members; creating_and_modifying_members.htm;
 50; Organizing as Family Groups; organizing_as_family_groups.htm;
 51; Assigning Member IDs; assigning_member_ids.htm;
