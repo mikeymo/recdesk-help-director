@@ -77,3 +77,4 @@
 77; Adding and Updating Content; adding_and_updating_content.htm;
 78; Uploading Documents; uploading_documents.htm;
 79; How Waivers Work; how_waivers_work.htm;
+80; Inserting Pictures into Content; inserting_pictures_into_content.htm;
