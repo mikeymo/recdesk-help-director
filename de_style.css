@@ -56,6 +56,11 @@ font-weight:normal;
 img.de_780D01ADE8
 {
 margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+span.de_088A624826
+{
+	font-size: 10pt;
+	font-style:italic;
+}
 span.de_160AD1C664
 {
 	font-size: 11pt;
@@ -76,6 +81,18 @@ span.de_2B94C39861
 	color:#0000ff;
 	text-decoration:underline;
 }
+span.de_32432F17D6
+{
+	font-family:Arial;
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_3936C46AEE
+{
+	font-family:Arial;
+	font-size: 12pt;
+	color:#000000;
+}
 span.de_403BE9223A
 {
 	font-size: 10pt;
@@ -88,6 +105,13 @@ span.de_476D3D315E
 {
 	text-decoration:underline;
 }
+span.de_4F7AD1B79D
+{
+	font-family:Arial;
+	font-size: 11pt;
+	color:#000000;
+	font-style:italic;
+}
 span.de_51752156DC
 {
 	color:#000000;
@@ -97,10 +121,27 @@ span.de_52A7C19AFB
 	font-size: 10pt;
 	color:#000000;
 }
+span.de_58E825B70E
+{
+	font-family:Calibri;
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_6D2D8B1FD4
+{
+	font-size: 12pt;
+}
 span.de_7CE7269266
 {
 	font-size: 10pt;
 	color:#da4b25;
+}
+span.de_81BCACC619
+{
+	font-family:Calibri;
+	font-size: 11pt;
+	color:#0000ff;
+	text-decoration:underline;
 }
 span.de_82121658CD
 {
@@ -110,6 +151,19 @@ span.de_82121658CD
 span.de_823826CA2C
 {
 	font-style:italic;
+}
+span.de_90B04DBBBD
+{
+	font-family:Helvetica;
+	font-size: 9pt;
+	color:#468847;
+}
+span.de_9F735D9FA9
+{
+	font-family:Arial;
+	font-size: 11pt;
+	color:#0000ff;
+	text-decoration:underline;
 }
 span.de_AD3B714EC2
 {
@@ -141,6 +195,12 @@ span.de_E63A2C15A9
 {
 	font-size: 11pt;
 	color:#000000;
+}
+span.de_E74ED79D1A
+{
+	font-size: 10pt;
+	color:#2532da;
+	font-style:italic;
 }
 span.de_E784023B8A
 {
