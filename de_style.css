@@ -56,6 +56,11 @@ font-weight:normal;
 img.de_780D01ADE8
 {
 margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+span.de_05E323186E
+{
+	font-family:Arial;
+	color:#4984b6;
+}
 span.de_088A624826
 {
 	font-size: 10pt;
@@ -66,6 +71,11 @@ span.de_160AD1C664
 	font-size: 11pt;
 	color:#3f3f3f;
 	font-style:italic;
+}
+span.de_1DC4B8595F
+{
+	font-family:Arial;
+	color:#2587da;
 }
 span.de_1F1B97B2FB
 {
@@ -136,6 +146,11 @@ span.de_7CE7269266
 	font-size: 10pt;
 	color:#da4b25;
 }
+span.de_7DDAD2385F
+{
+	font-family:Arial;
+	color:#000000;
+}
 span.de_81BCACC619
 {
 	font-family:Calibri;
@@ -164,6 +179,10 @@ span.de_9F735D9FA9
 	font-size: 11pt;
 	color:#0000ff;
 	text-decoration:underline;
+}
+span.de_AA31C5598D
+{
+	font-family:Arial;
 }
 span.de_AD3B714EC2
 {
@@ -206,5 +225,11 @@ span.de_E784023B8A
 {
 	font-size: 10pt;
 	color:#da4b25;
+	text-decoration:underline;
+}
+span.de_F91E733E0B
+{
+	font-family:Arial;
+	color:#0000ff;
 	text-decoration:underline;
 }

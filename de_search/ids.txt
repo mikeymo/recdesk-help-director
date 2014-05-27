@@ -82,3 +82,7 @@
 82; Uploading Documents; uploading_documents.htm;
 83; How Waivers Work; how_waivers_work.htm;
 84; Inserting Pictures into Content; inserting_pictures_into_content.htm;
+85; Embedding Third Party Content; embedding_third_party_content.htm;
+86; Embedding Google Picasa Photos/Slideshows; embedding_google_picasa_photos_slideshows.htm;
+87; Embedding Google Calendars; embedding_google_calendars.htm;
+88; Inserting Embed Code into Content; inserting_embed_code_into_content.htm;
