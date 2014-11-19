@@ -11,7 +11,7 @@
 11; The Program List; the_program_list.htm;
 12; Creating and Modifying Programs; creating_and_modifying_programs.htm;
 13; Program Schedules; program_schedules.htm;
-14; Registering people for programs; registering_people_for_programs.htm;
+14; Registering People for Programs; registering_people_for_programs.htm;
 15; Auto-Fill Custom Question Responses; auto_fill_custom_question_responses.htm;
 16; Working with Rosters; working_with_rosters.htm;
 17; Wait Lists; wait_lists.htm;
@@ -100,4 +100,7 @@
 100; Embedding Third Party Content; embedding_third_party_content.htm;
 101; Embedding Google Picasa Photos/Slideshows; embedding_google_picasa_photos_slideshows.htm;
 102; Embedding Google Calendars; embedding_google_calendars.htm;
-103; Inserting Embed Code into Content; inserting_embed_code_into_content.htm;
+103; Embedding Individual Photos Using DropShots
+; embedding_individual_photos_using_dropshots_.htm;
+104; Inserting Embed Code into Content; inserting_embed_code_into_content.htm;
+105; Image/Slideshow/Video Embed Guidelines; image_slideshow_video_embed_guidelines.htm;
