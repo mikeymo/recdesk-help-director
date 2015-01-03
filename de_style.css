@@ -56,6 +56,11 @@ font-weight:normal;
 img.de_780D01ADE8
 {
 margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+span.de_00EBD284C2
+{
+	font-family:Arial;
+	font-style:italic;
+}
 span.de_05E323186E
 {
 	font-family:Arial;
@@ -195,6 +200,10 @@ span.de_90B04DBBBD
 	font-size: 9pt;
 	color:#468847;
 }
+span.de_9BBAEB3590
+{
+	color:#2587da;
+}
 span.de_9F735D9FA9
 {
 	font-family:Arial;
@@ -235,6 +244,11 @@ span.de_E63A2C15A9
 {
 	font-size: 11pt;
 	color:#000000;
+}
+span.de_E9C26A8FA3
+{
+	color:#000000;
+	text-decoration:underline;
 }
 span.de_F91E733E0B
 {
