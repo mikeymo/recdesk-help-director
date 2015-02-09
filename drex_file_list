@@ -69,6 +69,8 @@ drex_yahoo_flickr_photos_slideshows_custom.png
 yahoo_flickr_photos_slideshows.htm
 drex_shutterfly_slideshows_custom.png
 shutterfly_slideshows.htm
+drex_dropshots___individual_photos_custom_3.png
+drex_dropshots___individual_photos_custom_2.png
 drex_dropshots___individual_photos_custom.png
 dropshots___individual_photos.htm
 google_calendars.htm
@@ -155,6 +157,10 @@ member_fields.htm
 appendix_4.htm
 online_account_approval.htm
 archiving_members.htm
+drex_moving_member_to_different_household_custom.png
+moving_member_to_different_household.htm
+drex_merging_members_custom.png
+merging_members.htm
 drex_taking_member_photos_custom_2.png
 drex_taking_member_photos_custom.png
 taking_member_photos.htm
@@ -163,8 +169,7 @@ updating_or_installing_silverlight.htm
 member_photos.htm
 drex_assigning_member_ids_custom.png
 assigning_member_ids.htm
-drex_organizing_as_family_groups_custom.png
-organizing_as_family_groups.htm
+organizing_as_household_organization_groups.htm
 creating_and_modifying_members.htm
 drex_the_member_list__advanced_search__custom.png
 the_member_list__advanced_search_.htm
@@ -209,8 +214,8 @@ appendix_2.htm
 drex_working_with_membership_members_custom_2.png
 drex_working_with_membership_members_custom.png
 working_with_membership_members.htm
-online_membership_enrollment__.htm
-enrolling_members_in_house__.htm
+online_membership_enrollment_.htm
+enrolling_members_in_house_.htm
 creating_and_modifying_membership_definitions.htm
 drex_the_memberships_list_custom.png
 the_memberships_list.htm
