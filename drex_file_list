@@ -98,10 +98,12 @@ adding_and_updating_content.htm
 drex_logging_in_custom.png
 logging_in.htm
 recdesk_community_portal.htm
-user_alerts.htm
+bulk_email_settings.htm
+setting_up_household_credit_gl_code.htm
 drex_setting_up_residency_requirements_custom.png
 setting_up_residency_requirements.htm
 managing_custom_lists.htm
+user_alerts.htm
 adding_recdesk_users.htm
 admin.htm
 member_related.htm
@@ -127,6 +129,8 @@ money.htm
 invoice_fields.htm
 appendix_6.htm
 viewing_and_editing_invoices.htm
+drex_invoice_payments_custom_5.png
+drex_invoice_payments_custom_4.png
 drex_invoice_payments_custom_3.png
 drex_invoice_payments_custom_2.png
 drex_invoice_payments_custom.png
@@ -161,6 +165,8 @@ drex_moving_member_to_different_household_custom.png
 moving_member_to_different_household.htm
 drex_merging_members_custom.png
 merging_members.htm
+drex_household_credits_custom.png
+household_credits.htm
 drex_taking_member_photos_custom_2.png
 drex_taking_member_photos_custom.png
 taking_member_photos.htm
@@ -215,7 +221,7 @@ drex_working_with_membership_members_custom_2.png
 drex_working_with_membership_members_custom.png
 working_with_membership_members.htm
 online_membership_enrollment_.htm
-enrolling_members_in_house_.htm
+enrolling_members_in_house__.htm
 creating_and_modifying_membership_definitions.htm
 drex_the_memberships_list_custom.png
 the_memberships_list.htm
