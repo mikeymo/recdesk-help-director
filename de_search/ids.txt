@@ -120,9 +120,11 @@
 118; DropShots - Individual Photos; dropshots___individual_photos.htm;
 119; Shutterfly Slideshows; shutterfly_slideshows.htm;
 120; Yahoo Flickr Photos/Slideshows; yahoo_flickr_photos_slideshows.htm;
-121; Inserting Embed Code into Content; inserting_embed_code_into_content.htm;
-122; Image/Slideshow/Video Embed Guidelines; image_slideshow_video_embed_guidelines.htm;
-123; Brochures, Sponsors and New Tabs; brochures__sponsors_and_new_tabs.htm;
-124; Brochure/Flyer/Newsletter Postings; brochure_flyer_newsletter_postings.htm;
-125; Sponsor Logos; sponsor_logos.htm;
-126; New Tabs; new_tabs.htm;
+121; Flickrit Responsive Slideshows; flickrit_responsive_slideshows.htm;
+122; Google Forms; google_forms.htm;
+123; Inserting Embed Code into Content; inserting_embed_code_into_content.htm;
+124; Image/Slideshow/Video Embed Guidelines; image_slideshow_video_embed_guidelines.htm;
+125; Brochures, Sponsors and New Tabs; brochures__sponsors_and_new_tabs.htm;
+126; Brochure/Flyer/Newsletter Postings; brochure_flyer_newsletter_postings.htm;
+127; Sponsor Logos; sponsor_logos.htm;
+128; New Tabs; new_tabs.htm;
