@@ -98,13 +98,15 @@ adding_and_updating_content.htm
 drex_logging_in_custom.png
 logging_in.htm
 recdesk_community_portal.htm
+show_hide_director_tabs.htm
 bulk_email_settings.htm
 setting_up_household_credit_gl_code.htm
 drex_setting_up_residency_requirements_custom.png
 setting_up_residency_requirements.htm
+program_assignments.htm
 coach_assignments.htm
 adding_editing_personnel_volunteers.htm
-personnel_volunteers__coaches_etc_.htm
+personnel_volunteers__coaches__instructors__etc_.htm
 managing_custom_lists.htm
 user_alerts.htm
 adding_recdesk_users.htm
@@ -266,6 +268,7 @@ drex_auto_fill_custom_question_responses_custom.png
 auto_fill_custom_question_responses.htm
 drex_registering_people_for_programs_custom.png
 registering_people_for_programs.htm
+adding_instructors_to_programs.htm
 drex_program_schedules_custom.png
 program_schedules.htm
 drex_creating_and_modifying_programs_custom.png
