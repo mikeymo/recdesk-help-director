@@ -9,7 +9,7 @@
 9; Member Related FAQs; member_related_faqs.htm;
 10; Money Related FAQs; money_related_faqs.htm;
 11; Administrative Related FAQs; administrative_related_faqs.htm;
-12; How Do I Use Tags?; how_do_i_use_tags_.htm;
+12; Using Tags Effectively; using_tags_effectively.htm;
 13; Attached Documents FAQ; attached_documents_faq.htm;
 14; Programs and Registrations; programs_and_registrations.htm;
 15; The Program List; the_program_list.htm;
