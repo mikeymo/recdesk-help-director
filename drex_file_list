@@ -34,6 +34,7 @@ de_search\0xu0034.txt
 de_search\0xu0033.txt
 de_search\0xu0032.txt
 de_search\0xu0031.txt
+de_search\0xu0030.txt
 js\drexplain.data.index.js
 de_style.css
 css\printed.css
@@ -125,6 +126,7 @@ reports.htm
 creating_and_sending_email_campaigns.htm
 drex_setting_up_your_mandrill_account_custom.png
 setting_up_your_mandrill_account.htm
+setting_up_your_sendgrid_account.htm
 sending_bulk_emails__email_blasts_.htm
 marketing___communications.htm
 sale_item_fields.htm
@@ -142,6 +144,7 @@ pos_terminal.htm
 inventory_management__optional_.htm
 item_categories.htm
 managing_available_items.htm
+managing_multiple_registers_at_one_location__optional_.htm
 locations.htm
 creating_and_modifying_sale_items.htm
 drex_sale_items_custom.png
