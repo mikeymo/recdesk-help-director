@@ -120,6 +120,13 @@ span.de_32432F17D6
 	font-size: 11pt;
 	color:#000000;
 }
+span.de_35F4681D72
+{
+	font-family:Helvetica;
+	font-size: 12pt;
+	color:#3785c8;
+	text-decoration:underline;
+}
 span.de_3755730707
 {
 	font-style:italic;
@@ -246,6 +253,13 @@ span.de_9F735D9FA9
 	font-family:Arial;
 	font-size: 11pt;
 	color:#0000ff;
+	text-decoration:underline;
+}
+span.de_A084E55211
+{
+	font-family:Helvetica;
+	font-size: 12pt;
+	color:#2587da;
 	text-decoration:underline;
 }
 span.de_A474C01633
