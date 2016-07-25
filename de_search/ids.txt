@@ -171,3 +171,4 @@
 169; Brochure/Flyer/Newsletter Postings; brochure_flyer_newsletter_postings.htm;
 170; Sponsor Logos; sponsor_logos.htm;
 171; New Tabs; new_tabs.htm;
+172; Release Notes; release_notes.htm;
