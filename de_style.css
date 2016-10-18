@@ -61,6 +61,12 @@ span.de_00EBD284C2
 	font-family:Arial;
 	font-style:italic;
 }
+span.de_04DD96C08F
+{
+	font-family:Times-Roman;
+	font-size: 12pt;
+	color:#000000;
+}
 span.de_05E323186E
 {
 	font-family:Arial;
@@ -70,6 +76,13 @@ span.de_0F609BFBFC
 {
 	color:#0000ff;
 	font-style:italic;
+	text-decoration:underline;
+}
+span.de_0FACA00A60
+{
+	font-family:Times-Roman;
+	font-size: 12pt;
+	color:#0000e9;
 	text-decoration:underline;
 }
 span.de_160AD1C664
