@@ -99,7 +99,7 @@ drex_adding_and_updating_content_custom.png
 adding_and_updating_content.htm
 drex_logging_in_custom.png
 logging_in.htm
-recdesk_community_portal.htm
+legacy_recdesk_community_portal.htm
 show_hide_director_tabs.htm
 bulk_email_settings.htm
 invoice_me__pay_later__option_for_recdesk_community_3.htm
@@ -155,6 +155,11 @@ drex_sale_items_custom.png
 sale_items.htm
 getting_started_with_point_of_sale.htm
 pos.htm
+drex_household_balances_custom.png
+household_balances.htm
+drex_auto_payment_history_custom.png
+auto_payment_history.htm
+setting_up_payment_plan_templates.htm
 invoice_me__pay_later__option_for_recdesk_community_2.htm
 online_invoice_payments__recdesk_community__2.htm
 voids.htm
@@ -168,6 +173,9 @@ payment_search.htm
 money.htm
 invoice_fields.htm
 appendix_6.htm
+making_a_payment_on_a_payment_plan.htm
+creating_a_payment_plan_for_an_invoice.htm
+working_with_payment_plans.htm
 drex_merging_invoices_custom.png
 merging_invoices.htm
 invoice_me__pay_later__option_for_recdesk_community_1.htm
@@ -279,7 +287,7 @@ drex_working_with_membership_members_custom_2.png
 drex_working_with_membership_members_custom.png
 working_with_membership_members.htm
 online_membership_enrollment_.htm
-enrolling_members_in_house_.htm
+enrolling_members_in_house__.htm
 drex_creating_punch_passes_custom.png
 creating_punch_passes.htm
 creating_and_modifying_membership_definitions.htm
