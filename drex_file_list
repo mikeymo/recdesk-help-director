@@ -28,6 +28,7 @@ de_search\0xu0042.txt
 de_search\0xu0041.txt
 de_search\0xu0039.txt
 de_search\0xu0038.txt
+de_search\0xu0037.txt
 de_search\0xu0036.txt
 de_search\0xu0035.txt
 de_search\0xu0034.txt
@@ -126,6 +127,9 @@ managing_custom_lists.htm
 user_alerts.htm
 adding_recdesk_users.htm
 admin.htm
+echeck_ach_processing.htm
+credit_card_processing.htm
+payment_processing.htm
 member_related.htm
 general_ledger_related.htm
 payments_and_registrations_related.htm
