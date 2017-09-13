@@ -97,7 +97,7 @@ legacy_recdesk_community_portal.htm
 flexform_elements.htm
 appendix_8.htm
 managing_completed_forms.htm
-assigning_forms_to_programs_and_facilities.htm
+assigning_forms_programs__facilities___memberships.htm
 drex_downloading_blank_flexforms_custom.png
 downloading_blank_flexforms.htm
 drex_creating_and_modifying_flexforms_custom_2.png
@@ -329,7 +329,8 @@ membership_definition_fields.htm
 appendix_2.htm
 working_with_membership_members.htm
 online_membership_enrollment_.htm
-enrolling_members_in_house_.htm
+enrolling_members_in_house__.htm
+assigning_forms_to_memberships.htm
 drex_creating_punch_passes_custom.png
 creating_punch_passes.htm
 creating_and_modifying_membership_definitions.htm
