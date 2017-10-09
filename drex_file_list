@@ -132,6 +132,8 @@ admin.htm
 echeck_ach_processing.htm
 credit_card_processing.htm
 payment_processing.htm
+drex_activity_counts_custom.png
+activity_counts.htm
 member_related.htm
 general_ledger_related.htm
 payments_and_registrations_related.htm
@@ -291,9 +293,16 @@ members.htm
 facility_reservation_fields.htm
 facility_fields.htm
 appendix_3.htm
+drex_check_in_totals_custom.png
+check_in_totals.htm
+drex_unsuccessful_check_ins_custom.png
+unsuccessful_check_ins.htm
 drex_viewing_and_editing_check_ins_custom_2.png
 drex_viewing_and_editing_check_ins_custom.png
 viewing_and_editing_check_ins.htm
+drex_check_ins_for_memberships_custom_2.png
+drex_check_ins_for_memberships_custom.png
+check_ins_for_memberships.htm
 drex_self_check_in_custom_3.png
 drex_self_check_in_custom_2.png
 drex_self_check_in_custom.png
@@ -329,7 +338,7 @@ membership_definition_fields.htm
 appendix_2.htm
 working_with_membership_members.htm
 online_membership_enrollment_.htm
-enrolling_members_in_house__.htm
+enrolling_members_in_house_.htm
 assigning_forms_to_memberships.htm
 drex_creating_punch_passes_custom.png
 creating_punch_passes.htm
