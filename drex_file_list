@@ -141,6 +141,9 @@ money_related.htm
 facility_related.htm
 program_related.htm
 reports.htm
+drex_sending_sms_text_messages_from_programs_memberships_leagues_custom_2.png
+drex_sending_sms_text_messages_from_programs_memberships_leagues_custom.png
+sending_sms_text_messages_from_programs_memberships_leagues.htm
 creating_and_sending_email_campaigns.htm
 drex_setting_up_your_mandrill_account_custom.png
 setting_up_your_mandrill_account.htm
@@ -190,8 +193,9 @@ opening_the_pos_terminal.htm
 pos_terminal.htm
 inventory_management__optional_.htm
 item_categories.htm
-managing_available_items.htm
+sale_item_history.htm
 managing_multiple_registers_at_one_location__optional_.htm
+managing_available_items.htm
 locations.htm
 creating_and_modifying_sale_items.htm
 drex_sale_items_custom.png
@@ -336,6 +340,8 @@ facilities__reservations_and_check_ins.htm
 membership_enrollment_fields.htm
 membership_definition_fields.htm
 appendix_2.htm
+drex_list_of_membership_members_custom.png
+list_of_membership_members.htm
 working_with_membership_members.htm
 online_membership_enrollment_.htm
 enrolling_members_in_house_.htm
