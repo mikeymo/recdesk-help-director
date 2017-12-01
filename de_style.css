@@ -56,6 +56,12 @@ font-weight:normal;
 img.de_780D01ADE8
 {
 margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+span.de_04DD96C08F
+{
+	font-family:Times-Roman;
+	font-size: 12pt;
+	color:#000000;
+}
 span.de_053AA27A8A
 {
 	font-family:Arial;
@@ -123,6 +129,13 @@ span.de_35F4681D72
 	font-size: 12pt;
 	color:#3785c8;
 	text-decoration:underline;
+}
+span.de_362432B156
+{
+	font-family:Times-Roman;
+	font-size: 12pt;
+	color:#000000;
+	font-style:italic;
 }
 span.de_3755730707
 {
