@@ -28,7 +28,6 @@ de_search\0xu0042.txt
 de_search\0xu0041.txt
 de_search\0xu0039.txt
 de_search\0xu0038.txt
-de_search\0xu0037.txt
 de_search\0xu0036.txt
 de_search\0xu0035.txt
 de_search\0xu0034.txt
@@ -93,7 +92,7 @@ drex_adding_and_updating_content_custom.png
 adding_and_updating_content.htm
 drex_logging_in_custom.png
 logging_in.htm
-legacy_recdesk_community_portal.htm
+recdesk_content_management_.htm
 flexform_elements.htm
 appendix_8.htm
 managing_completed_forms.htm
@@ -146,9 +145,6 @@ drex_sending_sms_text_messages_from_programs_memberships_leagues_custom_2.png
 drex_sending_sms_text_messages_from_programs_memberships_leagues_custom.png
 sending_sms_text_messages_from_programs_memberships_leagues.htm
 creating_and_sending_email_campaigns.htm
-drex_setting_up_your_mandrill_account_custom.png
-setting_up_your_mandrill_account.htm
-setting_up_your_sendgrid_account.htm
 sending_bulk_emails__email_blasts_.htm
 marketing___communications.htm
 sale_item_fields.htm
@@ -404,6 +400,11 @@ drex_basic_features_custom_2.png
 drex_basic_features_custom.png
 basic_features.htm
 master_calendar.htm
+drex_flex_calendar_custom_4.png
+drex_flex_calendar_custom_3.png
+drex_flex_calendar_custom_2.png
+drex_flex_calendar_custom.png
+flex_calendar.htm
 getting_started.htm
 drex_welcome_custom.png
 welcome.htm
